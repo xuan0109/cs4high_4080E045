@@ -19,15 +19,9 @@ root@kali:~/python# python3 test1.py
 1/2=0.5
 ```
 
-## 10-3
-```
-root@kali:~/python# gedit test6.py
-root@kali:~/python# python3 test6.py
-Where do you live? 
-I live in Boston. 
-```
 
-## 10-4
+
+## 10-3
 ```
 root@kali:~/python# gedit test7.py
 root@kali:~/python# python3 test7.py
@@ -36,7 +30,7 @@ Where do you live?
 I hear it's nice there!
 ```
 
-## 10-5
+## 10-4
 ```
 root@kali:~/python# gedit test2.py
 root@kali:~/python# python3 test2.py
